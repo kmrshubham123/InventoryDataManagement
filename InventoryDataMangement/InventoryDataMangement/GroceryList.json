@@ -1,0 +1,20 @@
+{
+  "List": [
+    {
+      "Product": "Rice",
+      "Weight": 25,
+      "Price": 70
+    },
+    {
+      "Product": "Pulses",
+      "Weight": 10,
+      "Price": 110
+    },
+    {
+      "Product": "Wheat",
+      "Weight": 10,
+      "Price": 38.50
+    }
+  ]
+
+}
